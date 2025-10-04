@@ -1,0 +1,5 @@
+{
+  "name": "OSRS ToB Bot Simulator",
+  "description": "A web application that simulates an AI-powered bot playing Old School RuneScape's Theatre of Blood, using the Gemini API to make decisions.",
+  "requestFramePermissions": []
+}
